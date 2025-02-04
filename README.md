@@ -1,4 +1,3 @@
----
 # **Sistema de Autenticação com JWT**
 
 Este projeto implementa um sistema de autenticação utilizando **JSON Web Tokens (JWT)**, composto por um backend em **Spring Boot** e um frontend em **Angular**.
@@ -113,7 +112,6 @@ login-jwt/
   - **Cabeçalho:**
     - `Authorization: Bearer {token}`
 
-## **Considerações Finais**
 
 Este projeto serve como uma base para sistemas que necessitam de autenticação e autorização utilizando JWT. Sinta-se à vontade para expandir as funcionalidades conforme as necessidades do seu aplicativo.
 
